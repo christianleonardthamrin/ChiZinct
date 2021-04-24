@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChiZinct
+- 👋 Hi, I’m Chiz
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
