@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chiz
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through thamrchris@gmail.com
 
 <!---
